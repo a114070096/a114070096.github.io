@@ -1,0 +1,61 @@
+.columbacenter{
+    text-emphasis: center;
+    color: aqua;
+}
+.ggg{
+    font-size: 23px;
+}
+.columbakk{
+    text-align: center;
+    color:rgb(245, 245, 245);
+    background-color: rgb(40, 96, 96);
+    border-radius: 30px;
+    margin: 0 auto;
+    padding: 20px 30px;
+    width: 90%; 
+    height: 100%;
+    overflow: hidden;
+
+}
+.columbagg{
+    font-size: 50px;
+    text-align: center;
+}
+
+.centercenter{
+    text-align: center;
+}
+
+.blueblue{
+    color: blue;
+}
+.columbapadding{
+    padding: 120px;
+}
+
+a.columbalink{
+    color: aqua;
+    padding: 10px;
+}
+a.columbalink:hover{
+    background-color: blueviolet;
+    padding: 0 10px;
+    border-radius: 20px;
+}
+section#about {
+    background-color: #0dcaf0;
+    background-image: url(../ooo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
+}
+section#callme {
+    background-color: #0dcaf0;
+}
+section#about h1{
+    color: #343140;
+}
+section#callme h2{
+    color: #343140;
+}
