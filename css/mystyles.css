@@ -51,7 +51,12 @@ section#about {
     background-attachment: fixed;
 }
 section#callme {
-    background-color: chartreuse;
+    background-color: #0dcaf0;
+    background-image: url(../ooo.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: center;
+    background-attachment: fixed;
 }
 section#about h1{
     color: #343140;
