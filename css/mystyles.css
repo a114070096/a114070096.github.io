@@ -15,7 +15,6 @@
     width: 90%; 
     height: 100%;
     overflow: hidden;
-
 }
 .columbagg{
     font-size: 50px;
@@ -63,4 +62,18 @@ section#about h1{
 }
 section#callme h2{
     color: #343140;
+}
+.noto-serif-tc-aa {
+  font-family: "Noto Serif TC", serif;
+}
+.columbakg{
+    text-align: center;
+    color:rgb(245, 245, 245);
+    background-color: deeppink;
+    border-radius: 30px;
+    margin: 0 auto;
+    padding: 10px 10px;
+    width: 90%; 
+    height: 100%;
+    overflow: hidden;
 }
