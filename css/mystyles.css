@@ -1,7 +1,7 @@
 .columbacenter{
     text-emphasis: center;
     color: aqua;
-}
+}    
 .ggg{
     font-size: 23px;
 }
@@ -69,6 +69,7 @@ section#about {
     background-size: 100%;
     background-position: center;
     background-attachment: fixed;
+    background-size: cover;
 }
 section#callme {
     background-color: #0dcaf0;
@@ -77,6 +78,7 @@ section#callme {
     background-size: 100%;
     background-position: center;
     background-attachment: fixed;
+    background-size: cover;
 }
 section#about h1{
     color: #343140;
